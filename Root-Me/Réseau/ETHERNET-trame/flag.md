@@ -4,6 +4,6 @@
 
 ## You can't see that one!
 
-Sadly, Root-Me and HackTheBox doesn’t allow publishing flags and answers. 
+Sadly, Root-Me and HackTheBox don't allow publishing flags and answers. 
 
 </div>
