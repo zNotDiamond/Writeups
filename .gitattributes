@@ -1,0 +1,2 @@
+Root-Me/**/flag.* filter=redactflag
+HackTheBox/**/flag.* filter=redactflag

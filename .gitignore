@@ -1,0 +1,21 @@
+# obsidian
+.obsidian/
+.trash/
+*.tmp
+*.temp
+
+# Sys
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# tmp files 
+*.swp
+*.swo
+*~
+
+# omg secret files!
+*.key
+*.pem
+secrets.*
+.env
