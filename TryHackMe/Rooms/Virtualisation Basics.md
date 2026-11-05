@@ -1,5 +1,3 @@
-#TryHackMe
-
 What does virtualisation enable multiple applications to share?
 
 Answer: `physical server`

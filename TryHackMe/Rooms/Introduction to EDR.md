@@ -1,5 +1,3 @@
-#TryHackMe
-
 Which feature of EDR provides a complete context for all the detections?
 
 Answer: `Visibility`

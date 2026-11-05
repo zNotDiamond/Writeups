@@ -1,5 +1,3 @@
-#TryHackMe
-
 What does the "OSI" in "OSI Model" stand for?
 
 Answer: `Open Systems Interconnection`

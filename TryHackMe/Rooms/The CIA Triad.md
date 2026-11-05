@@ -1,5 +1,3 @@
-#TryHackMe
-
 Which pillar of the CIA focuses on preventing unauthorized modification of data?
 
 Answer: `Integrity`

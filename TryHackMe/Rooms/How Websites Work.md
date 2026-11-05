@@ -1,5 +1,3 @@
-#TryHackMe
-
 What term best describes the component of a web application rendered by your browser?
 
 Answer: `Front End`

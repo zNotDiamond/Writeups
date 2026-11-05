@@ -1,5 +1,3 @@
-#TryHackMe
-
 According to NIST SP 800–61r2, what is the first activity that must happen before eradication can begin?
 
 Answer: `Containment`

@@ -1,5 +1,3 @@
-#TryHackMe
-
 HTTP stands for Hypertext Transfer Protocol
 
 HTTPS stands for Hypertext Transfer Protocol Secure

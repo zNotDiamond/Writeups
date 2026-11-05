@@ -1,5 +1,3 @@
-#TryHackMe
-
 What is the name of the Intel Gathering Tool that is a web-based interface to the common tools and resources for open-source intelligence?
 
 Answer: `OSINT Framework`

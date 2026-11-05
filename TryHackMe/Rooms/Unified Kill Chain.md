@@ -1,5 +1,3 @@
-#TryHackMe
-
 In what year was the Unified Kill Chain framework released?
 
 Answer: `2017`

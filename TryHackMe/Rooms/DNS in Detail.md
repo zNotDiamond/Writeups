@@ -1,5 +1,3 @@
-#TryHackMe
-
 What does DNS stand for?
 
 Answer: `Domain Name System`

@@ -1,5 +1,3 @@
-#TryHackMe
-
 Logstash is used to visualize the data. (yay / nay)
 
 Answer: `nay`

@@ -1,5 +1,3 @@
-#TryHackMe
-
 ### Deploying Your First Machine
 
 There are two main ways to interact with TryHackMe virtual machines:

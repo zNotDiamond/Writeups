@@ -1,2 +1,5 @@
-Root-Me/**/flag.* filter=redactflag
-HackTheBox/**/flag.* filter=redactflag
+*.md filter=striptags
+Root-Me/**/flag.md filter=redactflag
+HackTheBox/**/flag.md filter=redactflag
+Root-Me/**/flag.png filter=redactimage
+HackTheBox/**/flag.png filter=redactimage

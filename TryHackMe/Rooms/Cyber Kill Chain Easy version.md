@@ -1,5 +1,3 @@
-#TryHackMe
-
 How many phases comprise the Cyber Kill Chain?
 
 Answer: `7`

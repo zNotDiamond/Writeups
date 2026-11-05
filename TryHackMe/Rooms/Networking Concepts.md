@@ -1,5 +1,3 @@
-#TryHackMe
-
 Which layer is responsible for connecting one application to another?
 
 Answer: `Layer 4`

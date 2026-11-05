@@ -1,5 +1,3 @@
-#TryHackMe
-
 What networking constructs are used to direct traffic to the right application on a server?
 
 Answer: `Ports`

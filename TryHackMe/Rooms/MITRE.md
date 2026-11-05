@@ -1,5 +1,3 @@
-#TryHackMe
-
 ## Task 2 - ATT&CK Framework
 
 ### 1) What Tactic does the Hide Artifacts technique belong to in the ATT&CK Matrix?

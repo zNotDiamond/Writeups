@@ -1,5 +1,3 @@
-#Hackropole-Cryptanalyse 
-
 carotte =  392278890668246705
 radis   =  4588810924820033807
 tomate  =  17164682861166542664

@@ -1,5 +1,3 @@
-#TryHackMe
-
 In a Windows domain, credentials are stored in a centralised repository called…
 
 Answer: `Active Directory`

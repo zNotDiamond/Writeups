@@ -1,5 +1,3 @@
-#TryHackMe
-
 ## Task 2 - Web app
 
 What is responsible for hosting and delivering content for web applications?

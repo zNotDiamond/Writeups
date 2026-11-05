@@ -1,5 +1,3 @@
-#TryHackMe
-
 What’s the flag you received after completing all levels of the Secret Message Rescue game?
 
 Answer: `THM{CAESAR_CIPHER_MASTER_2026}`

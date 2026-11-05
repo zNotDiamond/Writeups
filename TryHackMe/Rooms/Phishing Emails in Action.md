@@ -1,5 +1,3 @@
-#TryHackMe
-
 What phrase does the gibberish sender email start with?
 
 Answer: `noreply`

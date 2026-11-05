@@ -1,5 +1,3 @@
-#TryHackMe
-
 A penetration tester runs several tools against a target but skips network mapping entirely and does not document the scope beforehand.
 Which benefit of using a framework would have most directly prevented this situation?
 

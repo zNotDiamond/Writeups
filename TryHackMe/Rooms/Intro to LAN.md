@@ -1,5 +1,3 @@
-#TryHackMe
-
 What does LAN stand for?
 
 Answer: `Local Area Network`

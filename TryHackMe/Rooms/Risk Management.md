@@ -1,5 +1,3 @@
-#TryHackMe
-
 You have registered to attend a local workshop about offensive cyber security tools.
 You decide to carry an extra laptop; if your main laptop fails, the second laptop will be ready.
 What would you call this response to risk?

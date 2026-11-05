@@ -1,5 +1,3 @@
-#TryHackMe
-
 Task 1  Connecting to our network
 Task 2  Connecting with Windows
 Task 3  Connecting with MacOS

@@ -1,5 +1,3 @@
-#TryHackMe
-
 What is the term for when a model becomes too familiar with its training data and fails to generalise to new data?
 
 Answer: `Overfitting`

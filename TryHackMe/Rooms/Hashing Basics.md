@@ -1,5 +1,3 @@
-#TryHackMe
-
 What is the SHA256 hash of the passport.jpg file in ~/Hashing-Basics/Task-2 ?
 
 Answer: `77148c6f605a8df855f2b764bcc3be749d7db814f5f79134d2aa539a64b61f02`

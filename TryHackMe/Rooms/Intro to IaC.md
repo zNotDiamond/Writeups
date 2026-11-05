@@ -1,5 +1,3 @@
-#TryHackMe
-
 Your organisation is preparing to launch a new service called FlyNet.
 The DevSecOps team provisioned an infrastructure and tested this service in the dev environment.
 Which IaC characteristic will streamline the provisioning of this same infrastructure in staging and production?

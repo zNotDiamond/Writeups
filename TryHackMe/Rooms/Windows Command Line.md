@@ -1,5 +1,3 @@
-#TryHackMe
-
 What is the default command line interpreter in the Windows environment?
 
 Answer: `cmd.exe`

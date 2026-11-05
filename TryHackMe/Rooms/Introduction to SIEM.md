@@ -1,5 +1,3 @@
-#TryHackMe
-
 What does SIEM stand for?
 
 Answer: `Security Information and Event Management system`

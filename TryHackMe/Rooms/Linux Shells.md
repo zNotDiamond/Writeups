@@ -1,5 +1,3 @@
-#TryHackMe
-
 Who is the facilitator between the user and the OS?
 
 Answer: `shell`

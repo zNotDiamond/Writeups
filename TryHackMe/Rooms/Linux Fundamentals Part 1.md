@@ -1,5 +1,3 @@
-#TryHackMe
-
 This room covers some essential Linux basics.
 We learn what Linux is, how to spin up a Linux virtual machine (VM) in THM, and a number of essential commands and operators.
 By going through this room, you’ll learn how to navigate the Linux file structure, search for files, read the contents of a file, and search inside a file’s contents.

@@ -1,5 +1,3 @@
-#TryHackMe
-
 Which team focuses on defensive security?
 
 Answer: `blue team`

@@ -1,5 +1,3 @@
-#Hackropole-Cryptanalyse 
-
 It's a pigpen cypher.
 
 https://www.dcode.fr/pigpen-cipher

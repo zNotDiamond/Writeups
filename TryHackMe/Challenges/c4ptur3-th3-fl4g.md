@@ -1,5 +1,3 @@
-#TryHackMe
-
 This room is a pure encoding and steganography gauntlet — no exploitation, no shells, just layer after layer of ciphers, spectrograms, and hidden data. It’s a perfect example of why every decoded string deserves a second look before assuming the puzzle is solved. Working through ten stacked encodings and three separate steganography techniques makes for a satisfying full clear.
 
 ## 1. Translation & Shifting

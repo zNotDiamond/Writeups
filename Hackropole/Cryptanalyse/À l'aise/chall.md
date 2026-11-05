@@ -1,5 +1,3 @@
-#Hackropole-Cryptanalyse
-
 Gqfltwj emgj clgfv ! Aqltj rjqhjsksg ekxuaqs, ua xtwk
 n'feuguvwb gkwp xwj, ujts f'npxkqvjgw nw tjuwcz
 ugwygjtfkf qz uw efezg sqk gspwonu. Jgsfwb-aqmu f

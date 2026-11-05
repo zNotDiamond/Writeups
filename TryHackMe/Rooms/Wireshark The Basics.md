@@ -1,5 +1,3 @@
-#TryHackMe
-
 Which file is used to simulate the screenshots?
 
 Answer: `http1.pcapng`

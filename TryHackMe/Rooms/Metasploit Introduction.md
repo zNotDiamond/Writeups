@@ -1,5 +1,3 @@
-#TryHackMe
-
 What is the name of the code taking advantage of a flaw on the target system?
 
 Answer: `Exploit`

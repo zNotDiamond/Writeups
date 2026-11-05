@@ -1,5 +1,3 @@
-#TryHackMe
-
 What or who is the weakest link in cybersecurity?
 
 Answer: `Humans`

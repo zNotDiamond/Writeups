@@ -1,5 +1,3 @@
-#TryHackMe
-
 ## Task 2 The CIA Triad
 
 Question: What element of the CIA triad ensures that data cannot be altered by unauthorised people?

@@ -1,5 +1,3 @@
-#Hackropole-Cryptanalyse 
-
 It's a chinese remainder cypher. 
 https://www.dcode.fr/chinese-remainder
 We must copy the modulos on the right side. 

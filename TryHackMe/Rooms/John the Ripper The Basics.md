@@ -1,5 +1,3 @@
-#TryHackMe
-
 What is the most popular extended version of John the Ripper?
 
 Answer: `Jumbo John`

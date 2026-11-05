@@ -1,5 +1,3 @@
-#Hackropole-Cryptanalyse 
-
 It's a XOR cipher. 
 
 https://www.dcode.fr/xor-cipher

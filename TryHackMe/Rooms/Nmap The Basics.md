@@ -1,5 +1,3 @@
-#TryHackMe
-
 What is the last IP address that will be scanned when your scan target is 192.168.0.1 / 27 ?
 
 Answer: `192.168.0.31`

@@ -1,5 +1,3 @@
-#Root-Me-Cryptanalyse 
-
 _=_ 
 _=_ Part 001 of 001 of file root-me_challenge_uudeview
 _=_ 

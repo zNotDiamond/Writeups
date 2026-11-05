@@ -1,5 +1,3 @@
-#TryHackMe
-
 What is the name of the hidden web page you discovered?
 
 Answer: `login`

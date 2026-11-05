@@ -1,5 +1,3 @@
-#TryHackMe
-
 What is the ASCII code in decimal for the character @ ?
 
 Answer: `64`

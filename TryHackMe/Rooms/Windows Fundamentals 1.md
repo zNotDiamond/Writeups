@@ -1,5 +1,3 @@
-#TryHackMe
-
 What encryption can you enable on Pro that you can't enable in Home?
 
 Answer: `BitLocker`

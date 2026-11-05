@@ -1,5 +1,3 @@
-#TryHackMe
-
 What term describes the ability to answer where data came from, when it was collected, and whether it has been modified?
 
 Answer: `Data Provenance`

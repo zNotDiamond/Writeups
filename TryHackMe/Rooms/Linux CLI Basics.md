@@ -1,5 +1,3 @@
-#TryHackMe
-
 What does "CLI" stand for?
 
 Answer: `command-line interface`

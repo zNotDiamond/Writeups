@@ -1,5 +1,3 @@
-#TryHackMe
-
 What is the number of alerts you see in the SOC dashboard?
 
 Answer: `5`
