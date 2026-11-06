@@ -1,5 +1,3 @@
-This room is a pure encoding and steganography gauntlet — no exploitation, no shells, just layer after layer of ciphers, spectrograms, and hidden data. It’s a perfect example of why every decoded string deserves a second look before assuming the puzzle is solved. Working through ten stacked encodings and three separate steganography techniques makes for a satisfying full clear.
-
 ## 1. Translation & Shifting
 
 The first task worked through a chain of ten separate encodings, each one revealing a short message once decoded correctly.
@@ -50,7 +48,7 @@ This task hid its flag inside the frequency data of an audio file rather than it
 
 Result: text spelled out visually across the frequency spectrum, readable directly from the spectrogram display.
 
-![[Pasted image 20261102214803.png]]
+![](Pasted%20image%2020261102214803.png)
 
 Flag: `Super Secret Message`
 
@@ -66,7 +64,7 @@ steghide extract -sf stegosteg.jpg
 
 Result: hidden data extracted successfully.
 
-![[Pasted image 20261102214820.png]]
+![](Pasted%20image%2020261102214820.png)
 Flag: `SpaghettiSteg`
 
 Steghide extraction without a passphrase works whenever the file was embedded without one — always try a blank passphrase first before assuming a password is required.
@@ -83,7 +81,7 @@ Result: readable text sitting in plain view at the end of the file, appended dir
 
 
 The output revealed a referenced filename:
-![[Pasted image 20261102214836.png]]
+![](Pasted%20image%2020261102214836.png)
 
 
 Flag: `hackerchat.png`

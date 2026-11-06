@@ -10,6 +10,22 @@ What is the hostname of the Windows VM?
 
 Answer: `WINSRV2022-CORE`
 
+Which command can we use to look up the server’s physical address (MAC address)?
+
+Answer : `ipconfig /all`
+
+What is the name of the process listening on port 3389?
+
+Answer: `TermService`
+
+What is the name of the service listening on port 135?
+
+Answer: `RpcSs`
+
+What is the IP address of your gateway?
+
+Answer: `10.10.0.1`
+
 What are the file’s contents in C:\Treasure\Hunt?
 
 Answer: `THM{CLI_POWER}`
@@ -20,27 +36,18 @@ Answer: `tasklist /FI "imagename eq notepad.exe"`
 
 What command can you use to kill the process with PID 1516?
 
-Advantages using a CLI:
-Lower resource usage.
-Automation.
-Remote management.
+Answer: `taskkill /PID 1516`
 
-SSH syntax: `ssh <username>@<MACHINE_IP>`
-The credentials for this room:
-Username: user
-Password: Tryhackme123!
+The command `shutdown /s` can shut down a system. What is the command you can use to restart a system?
 
-Other useful commands:
-help
-cls - Clears command prompt screen.
+Answer: `shutdown /r`
 
-You can find this by entering the ver command.
+What command can you use to abort a scheduled system shutdown?
 
-cd command to navigate between directories.
-cd .. to go up one level.
-dir view child directories.
-dir /a - Displays hidden and system files.
-dir /s - Displays files in current directory and all subdirectories.
-mkdir directory_name - creates a directory.
+Answer: `shutdown /a`
 
-With known process ID (PID), terminate task using taskkill /PID target_pid
+# Memo for all commands
+
+I made a little memo with all the commands I learned from this room.
+Cf. [[All Windows commands - From TryHackMe’s Windows Command Line room]]
+
