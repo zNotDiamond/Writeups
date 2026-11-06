@@ -11,7 +11,7 @@
 | [TryHackMe](https://tryhackme.com/p/zNotDiamond)               | **Rooms**: Walkthroughs that are guided labs/lessons teaching a specific cyber topic.<br>**Challenges**: Rooms with little to no help. | `TryHackMe/Rooms` <br><br>`TryHackMe/Challenges`           |
 | [Root-Me](https://www.root-me.org/zNotDiamond-1123460?lang=en) | Separated into **categories** (Cryptanalyse, Web-Client...)                                                                            | `Root-Me/Cryptanalyse`, `Root-Me/Web-Client` (...)             |
 | [CryptoHack](https://cryptohack.org/user/zNotDiamond)          | Separated by the **topic** (Elliptic Curves, Diffie-Helman...)                                                                         | `Cryptohack/Elliptic Curves`, `Cryptohack/Diffie-Helman` (...) |
-| [Hackropole](https://hackropole.fr)                            | Separated into **categories **(same thing as Root-Me)                                                                                  | `Hackropole/Cryptanalyse`, `Hackropole/Forensics` (...)        |
+| [Hackropole](https://hackropole.fr)                            | Separated into **categories** (same thing as Root-Me)                                                                                  | `Hackropole/Cryptanalyse`, `Hackropole/Forensics` (...)        |
 
 ## Notes
 
@@ -40,9 +40,9 @@ Each platform folder is split by category, then by the name of the challenge. A 
 
 ## Flags
 
-Root-Me and HackTheBox do not allow publishing flags and solutions. The `flag.md` and `flag.png` files of these two platforms are therefore never published as they are.
+Root-Me and HackTheBox don't allow publishing flags and solutions. Therefore, the `flag.md` (even `flag.png`) files of these two platforms are never published as they are.
 
-Redaction happens locally, before each commit, through Git clean filters. The real flag stays on my machine, and the repository only receives a placeholder.
+Redaction happens locally, before each commit, through Git clean filters. The real flag stays on my PC and the repository only receives a placeholder.
 
 | Filter        | Applies to                           | Effect                                                                                   |
 | :------------ | :----------------------------------- | :--------------------------------------------------------------------------------------- |
